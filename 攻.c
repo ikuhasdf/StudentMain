@@ -7,7 +7,7 @@ int main()
 	printf("输入一:");
 	int a;
 	int b;
-	while (true)
+	while (1)
 	{
 		scanf("%d", &a);
 		if (a == 1)
